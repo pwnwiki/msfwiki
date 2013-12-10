@@ -1,0 +1,4 @@
+msfwiki
+=======
+
+Metasploit Usage Wiki
