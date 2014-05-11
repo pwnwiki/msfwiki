@@ -5,7 +5,7 @@
 
 ### Live Online Copy:
 
-You can find a copy of the project online at: (to be updated)
+You can find a copy of the project online at: http://msf.pwnwiki.io/
 
 ### Offline Use:
 
