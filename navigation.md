@@ -4,15 +4,33 @@
 
 [Auxiliary]()
 
-  * 
+  * [admin](auxiliary/admin.md)
+  * [analyze](auxiliary/analyze.md)
+  * [bnat](auxiliary/bnat.md)
+  * [client](auxiliary/client.md)
+  * [crawler](auxiliary/crawler.md)
+  * [docx](auxiliary/docx.md)
+  * [dos](auxiliary/dos.md)
+  * [fuzzers](auxiliary/fuzzers.md)
+  * [gather](auxiliary/gather.md)
+  * [parser](auxiliary/parser.md)
+  * [pdf](auxiliary/pdf.md)
+  * [scanner](auxiliary/scanner.md)
+  * [server](auxiliary/server.md)
+  * [sniffer](auxiliary/sniffer.md)
+  * [spoof](auxiliary/spoof.md)
+  * [sqli](auxiliary/sqli.md)
+  * [voip](auxiliary/voip.md)
+  * [vsploit](auxiliary/vsploit.md)
+
   
 [Exploit]()
 
-  * 
+  * [test](test.md)
 
 [Post]()
 
-  * 
+  * [test](test.md)
 
 [Scripts]()
 
