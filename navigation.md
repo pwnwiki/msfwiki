@@ -46,7 +46,15 @@
 
 [Post]()
 
-  * [test](test.md)
+  * [aix](exploit/aix.md)
+  * [cisco](exploit/cisco.md)
+  * [firefox](exploit/firefox.md)
+  * [linux](exploit/linux.md)
+  * [multi](exploit/multi.md)
+  * [osx](exploit/osx.md)
+  * [solaris](exploit/solaris.md)
+  * [windows](exploit/windows.md)
+
 
 [Scripts]()
 
