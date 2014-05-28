@@ -2,6 +2,9 @@
 
 [Home](index.md)
 
+[Getting Started and Resources](GSR.md)
+
+
 [Modules]()
 
   * [Auxiliary](auxiliary.md)
