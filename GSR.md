@@ -20,5 +20,5 @@ There exist several resources on getting started using MSF to do both exploit wo
 
 |    Name     | Author / Description  | Link |
 | ----------- | --------------------- | ---- |
-| Metasploit: The Penetration Tester's Guide | by David Kennedy , Jim O'Gorman , Devon Kearns , Mati Aharoni. Arguably the best resource in printed form for using the framework | [Link](http://www.amazon.com/Metasploit-Penetration-Testers-David-Kennedy/dp/159327288X/ref=sr_1_1?ie=UTF8&qid=1314417895&sr=8-1) | 
-| Packt Publishing Metasploit Books | by Several Authors. Packt Publishing has released several books on the frameworks all with less than stellar reviews. The best of them being "Metasploit Penetration Testing Cookbook, Second Edition" by Monika Agarwal and Abhinav Singh  | [Link](http://www.amazon.com/Metasploit-Penetration-Testing-Cookbook-Edition/dp/1782166785/ref=sr_1_3?ie=UTF8&qid=1401260292&sr=8-3&keywords=metasploit) | 
+| SecurityTube Metasploit Framework Expert (SMFE) Course Material |  This is the course material for the SMFE Certification. Course material consists of 12+ hours of video lectures with practical demonstrations. | [Link](http://securitytube.net/groups?operation=view&groupId=10) | 
+| SecureNinjaTV Cyber Kung Fu:Intro to Metasploit  | SecureNinjaTV is pleased to present the entire Cyber Kung Fu for the Certified Ethical Hacker version 8 training class.  | [Link](http://youtu.be/0iJ6zgDnIIU?list=PLI7sA2luNRhlzMMpqw6oI8UtMcJV6bYSK) | 
