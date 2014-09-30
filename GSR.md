@@ -22,3 +22,4 @@ There exist several resources on getting started using MSF to do both exploit wo
 | ----------- | --------------------- | ---- |
 | SecurityTube Metasploit Framework Expert (SMFE) Course Material |  This is the course material for the SMFE Certification. Course material consists of 12+ hours of video lectures with practical demonstrations. | [Link](http://securitytube.net/groups?operation=view&groupId=10) | 
 | SecureNinjaTV Cyber Kung Fu:Intro to Metasploit  | SecureNinjaTV is pleased to present the entire Cyber Kung Fu for the Certified Ethical Hacker version 8 training class.  | [Link](http://youtu.be/0iJ6zgDnIIU?list=PLI7sA2luNRhlzMMpqw6oI8UtMcJV6bYSK) | 
+| Metasploit Minute | Metasploit Minute - the break down on breaking in. | [Link](http://www.youtube.com/playlist?list=PLW5y1tjAOzI3n4KRN_ic8N8Qv_ss_dh_F) |
